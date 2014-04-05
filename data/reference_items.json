@@ -1,0 +1,392 @@
+ [
+      {
+        "name": "Old Shoe",
+        "pointValue": "6",
+        "pointColor": "green",
+        "hint": "You will find the item you seek in a car or under a creek",
+        "thumbnail": "shoes",
+        "thumbnailType": "PNG",
+        "level": "Beginner", 
+        "coordinates": {
+          "latitude": "41.40338",
+          "longitude": "2.17403"
+        }
+      },
+      {
+        "name": "Pocket Watch",
+        "pointValue": "3",
+        "pointColor": "purple",
+        "hint": "You will find this watch on a fence, or in dire need to repent",
+        "thumbnail": "watch",
+        "thumbnailType": "PNG",
+        "level": "Beginner", 
+        "coordinates": {
+          "latitude": "45.485229",
+          "longitude": "-122.648366"
+        }
+      },
+      {
+        "name": "Typewriter",
+        "pointValue": "2",
+        "pointColor": "red",
+        "hint": "Look to the West, young one!",
+        "thumbnail": "typewriter",
+        "thumbnailType": "PNG",
+        "level": "Beginner",
+        "coordinates": {
+          "latitude": "45.446388",
+          "longitude": "-122.773293"
+        }
+      },
+      {
+        "name": "Cup of toothbrushes",
+        "pointValue": "5",
+        "pointColor": "magenta",
+        "hint": "It is under your nose",
+        "thumbnail": "toothbrushes",
+        "thumbnailType": "PNG",
+        "level": "Beginner", 
+        "coordinates": {
+          "latitude": "45.446388",
+          "longitude": "-122.773293"
+        }
+      },
+      {
+        "name": "Sweat sock",
+        "pointValue": "1",
+        "pointColor": "blue",
+        "hint": "Not a Cuckoo clock, but a Cuckoo Nest",
+        "thumbnail": "sock",
+        "thumbnailType": "PNG",
+        "level": "Beginner",
+        "coordinates": {
+          "latitude": "41.40338",
+          "longitude": "2.17403"
+        }
+      },
+      {
+        "name": "Silver Necklace",
+        "pointValue": "6",
+        "pointColor": "green",
+        "hint": "Standing on the edge of the universe",
+        "thumbnail": "necklace",
+        "thumbnailType": "PNG",
+        "level": "Beginner",
+        "coordinates": {
+          "latitude": "45.446388",
+          "longitude": "-122.773293"
+        }
+      },
+      {
+        "name": "Lego House",
+        "pointValue": "2",
+        "pointColor": "red",
+        "hint": "Next to her cheating heart",
+        "thumbnail": "lego",
+        "thumbnailType": "PNG",
+        "level": "Beginner",
+        "coordinates": {
+          "latitude": "41.40338",
+          "longitude": "2.17403"
+        }
+      },
+      {
+        "name": "Ribbon",
+        "pointValue": "1",
+        "pointColor": "blue",
+        "hint": "It is leaving on a jet plane",
+        "thumbnail": "ribbon",
+        "thumbnailType": "PNG",
+        "level": "Beginner",
+        "coordinates": {
+          "latitude": "41.40338",
+          "longitude": "2.17403"
+        }
+      },
+      {
+        "name": "TV Remote",
+        "pointValue": "5",
+        "pointColor": "magenta",
+        "hint": "Look no farther than Cobra",
+        "thumbnail": "remote",
+        "thumbnailType": "PNG",
+        "level": "Beginner",
+        "coordinates": {
+          "latitude": "45.485229",
+          "longitude": "-122.648366"
+        }
+      },
+      {
+        "name": "Ballpoint Pen",
+        "pointValue": "3",
+        "pointColor": "purple",
+        "hint": "You will find it where parkers like to park and breakers like to break",
+        "thumbnail": "pen",
+        "thumbnailType": "PNG",
+        "level": "Beginner",
+        "coordinates": {
+          "latitude": "45.446388",
+          "longitude": "-122.773293"
+        }
+      },
+       {
+        "name": "Ribbon",
+        "pointValue": "1",
+        "pointColor": "blue",
+        "hint": "It is leaving on a jet plane",
+        "thumbnail": "ribbon",
+        "thumbnailType": "PNG",
+        "level": "Intermediate",
+        "coordinates": {
+          "latitude": "41.40338",
+          "longitude": "2.17403"
+        }
+      },
+      {
+        "name": "TV Remote",
+        "pointValue": "5",
+        "pointColor": "magenta",
+        "hint": "Look no farther than Cobra",
+        "thumbnail": "remote",
+        "thumbnailType": "PNG",
+        "level": "Intermediate",
+        "coordinates": {
+          "latitude": "45.485229",
+          "longitude": "-122.648366"
+        }
+      },
+      {
+        "name": "Ballpoint Pen",
+        "pointValue": "3",
+        "pointColor": "purple",
+        "hint": "You will find it where parkers like to park and breakers like to break",
+        "thumbnail": "pen",
+        "thumbnailType": "PNG",
+        "level": "Intermediate",
+        "coordinates": {
+          "latitude": "45.446388",
+          "longitude": "-122.773293"
+        }
+      },
+      {
+        "name": "Silver Necklace",
+        "pointValue": "6",
+        "pointColor": "green",
+        "hint": "Standing on the edge of the universe",
+        "thumbnail": "necklace",
+        "thumbnailType": "PNG",
+        "level": "Intermediate",
+        "coordinates": {
+          "latitude": "45.446388",
+          "longitude": "-122.773293"
+        }
+      },
+      {
+        "name": "Lego House",
+        "pointValue": "2",
+        "pointColor": "red",
+        "hint": "Next to her cheating heart",
+        "thumbnail": "lego",
+        "thumbnailType": "PNG",
+        "level": "Intermediate",
+        "coordinates": {
+          "latitude": "41.40338",
+          "longitude": "2.17403"
+        }
+      },
+      {
+        "name": "Old Shoe",
+        "pointValue": "6",
+        "pointColor": "green",
+        "hint": "You will find the item you seek in a car or under a creek",
+        "thumbnail": "shoes",
+        "thumbnailType": "PNG",
+        "level": "Intermediate",
+        "coordinates": {
+          "latitude": "41.40338",
+          "longitude": "2.17403"
+        }
+      },
+      {
+        "name": "Pocket Watch",
+        "pointValue": "3",
+        "pointColor": "purple",
+        "hint": "You will find this watch on a fence, or in dire need to repent",
+        "thumbnail": "watch",
+        "thumbnailType": "PNG",
+        "level": "Intermediate",
+        "coordinates": {
+          "latitude": "45.485229",
+          "longitude": "-122.648366"
+        }
+      },
+      {
+        "name": "Typewriter",
+        "pointValue": "2",
+        "pointColor": "red",
+        "hint": "Look to the West, young one!",
+        "thumbnail": "typewriter",
+        "thumbnailType": "PNG",
+        "level": "Intermediate",
+        "coordinates": {
+          "latitude": "45.446388",
+          "longitude": "-122.773293"
+        }
+      },
+      {
+        "name": "Cup of toothbrushes",
+        "pointValue": "5",
+        "pointColor": "magenta",
+        "hint": "It is under your nose",
+        "thumbnail": "toothbrushes",
+        "thumbnailType": "PNG",
+        "level": "Intermediate",
+        "coordinates": {
+          "latitude": "45.446388",
+          "longitude": "-122.773293"
+        }
+      },
+      {
+        "name": "Sweat sock",
+        "pointValue": "1",
+        "pointColor": "blue",
+        "hint": "Not a Cuckoo clock, but a Cuckoo Nest",
+        "thumbnail": "sock",
+        "thumbnailType": "PNG",
+        "level": "Intermediate",
+        "coordinates": {
+          "latitude": "41.40338",
+          "longitude": "2.17403"
+        }
+      },
+      {
+        "name": "Dog Leash",
+        "pointValue": "5",
+        "pointColor": "magenta",
+        "hint": "Look to the tool bench of your over lord",
+        "thumbnail": "leash",
+        "thumbnailType": "PNG",
+        "level": "Expert",
+        "coordinates": {
+          "latitude": "41.40338",
+          "longitude": "2.17403"
+        }
+      },
+      {
+        "name": "Television",
+        "pointValue": "1",
+        "pointColor": "blue",
+        "hint": "You will find this at the upstairs downstairs",
+        "thumbnail": "keys",
+        "thumbnailType": "PNG",
+        "level": "Expert",
+        "coordinates": {
+          "latitude": "45.485229",
+          "longitude": "-122.648366"
+        }
+      },
+      {
+        "name": "Rose Bush",
+        "pointValue": "6",
+        "pointColor": "green",
+        "hint": "I beg your pardon. I never promised you a time to snark them",
+        "thumbnail": "glasses",
+        "thumbnailType": "PNG",
+        "level": "Expert",
+        "coordinates": {
+          "latitude": "45.446388",
+          "longitude": "-122.773293"
+        }
+      },
+      {
+        "name": "Bill the Great Dane",
+        "pointValue": "3",
+        "pointColor": "purple",
+        "hint": "He is green with envy",
+        "thumbnail": "dane",
+        "thumbnailType": "PNG",
+        "level": "Expert",
+        "coordinates": {
+          "latitude": "45.446388",
+          "longitude": "-122.773293"
+        }
+      },
+      {
+        "name": "Gameboy Console",
+        "pointValue": "2",
+        "pointColor": "red",
+        "hint": "Next to her cheating heart",
+        "thumbnail": "gameboy",
+        "thumbnailType": "PNG",
+        "level": "Expert",
+        "coordinates": {
+          "latitude": "41.40338",
+          "longitude": "2.17403"
+        }
+      },
+      {
+        "name": "Silver Necklace",
+        "pointValue": "6",
+        "pointColor": "green",
+        "hint": "Standing on the edge of the universe",
+        "thumbnail": "necklace",
+        "thumbnailType": "PNG",
+        "level": "Expert",
+        "coordinates": {
+          "latitude": "45.446388",
+          "longitude": "-122.773293"
+        }
+      },
+      {
+        "name": "TV Remote",
+        "pointValue": "5",
+        "pointColor": "magenta",
+        "hint": "Look no farther than Cobra",
+        "thumbnail": "remote",
+        "thumbnailType": "PNG",
+        "level": "Expert",
+        "coordinates": {
+          "latitude": "45.485229",
+          "longitude": "-122.648366"
+        }
+      },
+      {
+        "name": "Ballpoint Pen",
+        "pointValue": "3",
+        "pointColor": "purple",
+        "hint": "You will find it where parkers like to park and breakers like to break",
+        "thumbnail": "pen",
+        "thumbnailType": "PNG",
+        "level": "Expert",
+        "coordinates": {
+          "latitude": "45.446388",
+          "longitude": "-122.773293"
+        }
+      },
+      {
+        "name": "Ribbon",
+        "pointValue": "1",
+        "pointColor": "blue",
+        "hint": "It is leaving on a jet plane",
+        "thumbnail": "ribbon",
+        "thumbnailType": "PNG",
+        "level": "Expert",
+        "coordinates": {
+          "latitude": "41.40338",
+          "longitude": "2.17403"
+        }
+      },
+      {
+        "name": "Lego House",
+        "pointValue": "2",
+        "pointColor": "red",
+        "hint": "Next to her cheating heart",
+        "thumbnail": "lego",
+        "thumbnailType": "PNG",
+        "level": "Expert",
+        "coordinates": {
+          "latitude": "41.40338",
+          "longitude": "2.17403"
+        }
+      }
+    ]

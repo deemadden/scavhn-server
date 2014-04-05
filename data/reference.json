@@ -1,0 +1,34 @@
+[
+  {
+    "name": "vulture",
+    "level": "Beginner",
+    "description": "This is a beginner level Scav, with items that are easy to find.",
+    "duration": "04:30:00",
+    "image": "vulture-44-small",
+    "imageType": "PNG",
+    "thumbnail": "scavhn-headsup-vulture",
+    "thumbnailType": "PNG",
+    "items": []
+  },
+  {"name" : "owl",
+    "level" : "Intermediate",
+    "description" : "This is an intermediate level Scav, with items that are a little more difficult to find.",
+    "duration" : "03:00:00",
+    "image" : "owl-44-small",
+    "imageType" : "PNG",
+    "thumbnail" : "scavhn-headsup-owl",
+    "thumbnailType" : "PNG",
+    "items" : []
+  },
+  {
+    "name": "raccoon",
+    "level": "Expert",
+    "description": "This is an expert level Scav, with items that are VERY difficult to find.",
+    "duration": "02:30:00",
+    "image": "raccoon-44-small",
+    "imageType": "PNG",
+    "thumbnail": "scavhn-headsup-raccoon",
+    "thumbnailType": "PNG",
+    "items": []
+  }
+]

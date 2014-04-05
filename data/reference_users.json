@@ -1,0 +1,27 @@
+[
+{
+	"username": "timmypickens"
+	,"first": "Timmy"
+	,"last": "Pickens"
+	,"scavs": []
+	,"password": "clearpassword" 
+
+},
+
+{
+	"username": "johnpickens"
+	,"first": "John"
+	,"last": "Pickens"
+	,"scavs": []
+	,"password": "clearpassword" 
+},
+
+{
+	"username": "slimpickens"
+	,"first": "Slim"
+	,"last": "Pickens"
+	,"scavs": []
+	,"password": "clearpassword" 
+}
+
+]
