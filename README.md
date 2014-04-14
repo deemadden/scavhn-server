@@ -74,7 +74,7 @@ To run the scavhn server on OSX:
 ### Stopping the Server
 Stopping the server is a two step process.  You need to kill the REST server, then kill mongo.  
 
-To stop the REST server, Enter Ctrl + C in the Terminal window running the start_scavhn.sh script.  Terminal will return you to a prompt.
+To stop the REST server, Enter Ctrl + C in the Terminal window you ran the start_scavhn.sh script from.  Terminal will return you to a prompt.
 
 Once stopped, kill mongo by running the stop_mongo.sh script from the bin folder.  You can do this by 
 
